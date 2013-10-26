@@ -9,6 +9,7 @@
 import processing.serial.*;
 import java.util.*;
 import java.text.*;
+import java.math.*;
 
 PrintWriter output;
 DateFormat fnameFormat= new SimpleDateFormat("yyMMdd_HHmm");
@@ -25,6 +26,10 @@ PImage schmidt;
 float red = 0;
 float green = 255;
 
+LinkedList valueList = new LinkedList();
+int listSize = 10;
+
+int h = 0;
 int i = 0;
 
 void setup() {
@@ -60,25 +65,50 @@ void draw() {
       int tmp = int(val);
       tmp = (tmp % 1000)/2;
       
-      // println("Temp: " + tmp);
+      println("Temp: " + tmp);
+         
       
-      if (tmp > 0) {
-        red = 255/tmp*255;
-        println(red);
-        green = tmp-(255/tmp)*255;
-        println(red);
+      Integer obj = new Integer(tmp);
+      // int b = obj.intValue();
+      
+      
+      if (valueList.size() >= listSize) {
+        
+        valueList.addFirst(tmp);
+        valueList.removeLast();
+        
+        for (int i=0; i<listSize; i++) {
+           
+          Integer le = (Integer) valueList.get(i);
+          h += le.intValue();
+        }
+      
+        h = h/listSize;
+        // h = (h+tmp)/2;
+      }
+      
+      else {
+         valueList.add(tmp);
+      }
+            
+      System.out.println("\nContent of valueList :");
+      System.out.println(h);
+ 
+      if (h > 0) {
+        red = 255-h;
+        green = h-255;
       }
       
       fill((int)red,(int)green,0);
-      rect(100,(3*tmp/2),50,height);
+      rect(100,(3*h/2),50,height);
       
       // add images
-      if (tmp < 200) {
-        image(schmidt,0,0);
+      if (tmp < 150) {
+        image(schmidt,200,10);
       }
       
-      else if (tmp < 300) {
-        image(baby,0,200);
+      else if (tmp < 200) {
+        image(baby,200,200);
       }
 
       // write JSON
@@ -97,6 +127,11 @@ void draw() {
       }
     }
   } 
+}
+
+void showImage() {
+ 
+ tint(255, 40); 
 }
 
 void keyPressed() {
