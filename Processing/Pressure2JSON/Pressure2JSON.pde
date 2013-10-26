@@ -21,6 +21,10 @@ String val;     // Data received from the serial port
 
 PImage baby;
 PImage schmidt;
+
+float red = 0;
+float green = 255;
+
 int i = 0;
 
 void setup() {
@@ -56,21 +60,28 @@ void draw() {
       int tmp = int(val);
       tmp = (tmp % 1000)/2;
       
-      println("Temp: " + tmp);
-      
-      int red = 0;
-      int green = 255;
+      // println("Temp: " + tmp);
       
       if (tmp > 0) {
-        red = (255/tmp)*255;
+        red = 255/tmp*255;
+        println(red);
         green = tmp-(255/tmp)*255;
+        println(red);
       }
       
-      fill(red,green,0);
+      fill((int)red,(int)green,0);
       rect(100,(3*tmp/2),50,height);
       
+      // add images
+      if (tmp < 200) {
+        image(schmidt,0,0);
+      }
       
-      
+      else if (tmp < 300) {
+        image(baby,0,200);
+      }
+
+      // write JSON
       if (i >= 59) {
         
         i = 0;
