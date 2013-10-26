@@ -29,7 +29,7 @@ void setup() {
   output = createWriter(fileName + ".txt"); // save the file in the sketch folder
   
   output.println("{");
-  output.println("  \"" + fileName + " ");
+  output.println("  \"" + fileName + "\": [ ");
 }
 
 void draw() {
@@ -37,13 +37,22 @@ void draw() {
     val = myPort.readStringUntil('\n');
     
     if (val != null) {
-       println(val); //print it out in the console
+      
+      output.println("    {");
+      String timeString = timeFormat.format(new Date());
+      output.println("      \"time\" : \"" + timeString + "\",");
+      output.println("      \"intensity\" : " + val);
+      output.println("    },");
+      
+      println(val); //print it out in the console
     }
   } 
 }
 
 void keyPressed() {
   
+  output.println("    {}");
+  output.println("  ]");
   output.println("}");
   output.flush(); // Writes the remaining data to the file
   output.close(); // Finishes the file
