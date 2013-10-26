@@ -26,7 +26,7 @@ void setup() {
   
   Date now = new Date();
   fileName = fnameFormat.format(now);
-  output = createWriter(fileName + ".txt"); // save the file in the sketch folder
+  output = createWriter("Box Documents/Default Sync Folder/" + fileName + ".txt"); // save the file in the sketch folder
   
   output.println("{");
   output.println("  \"" + fileName + "\": [ ");
