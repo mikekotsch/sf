@@ -31,6 +31,9 @@ void setup()
   Date now = new Date();
   fileName = fnameFormat.format(now);
   output = createWriter(fileName + ".txt"); // save the file in the sketch folder
+
+  output.println("{");
+  output.println("  \"" + fileName + "\": [");
 }
 
 void draw()
@@ -38,44 +41,62 @@ void draw()
   int val;
   String time;
 
+
+
   if ( myPort.available() >= 15)  // wait for the entire message to arrive
   {
     if( myPort.read() == HEADER) // is this the header
     {
       String timeString = timeFormat.format(new Date());
-      println("Message received at " + timeString);
-      output.println(timeString);
+      // println("Message received at " + timeString);
+      output.println("   {");
+      output.println("     \"time\": \"" + timeString + "\",");
+      output.print("     \"pressure\": ");
+      
       // header found
       // get the integer containing the bit values
       val = readArduinoInt();
       // print the value of each bit
       for(int pin=2, bit=1; pin <= 13; pin++){
-        print("digital pin " + pin + " = " );
-        output.print("digital pin " + pin + " = " );
+//        print("digital pin " + pin + " = " );
+//        output.print("digital pin " + pin + " = " );
         int isSet = (val & bit);
         if( isSet == 0){
            println("0");
-           output.println("0");
+//           output.println("0");
         }
         else  {
           println("1");
-          output.println("0");
+//          output.println("0");
         }
         bit = bit * 2; // shift the bit
       }
       // print the six analog values
-      for(int i=0; i < 6; i ++){
-        val = readArduinoInt();
-        println("analog port " + i + "= " + val);
-        output.println("analog port " + i + "= " + val);
-      }
-      println("----");
-      output.println("----");
+      
+      // only A0
+      
+      val = readArduinoInt();
+      int i = 0;
+      
+      output.println(val);
+      output.print("   },");
+      
+//      for(int i=0; i < 6; i ++){
+//        val = readArduinoInt();
+//        println("analog port " + i + "= " + val);
+//        output.println("analog port " + i + "= " + val);
+//      }
+//      println("----");
+//      output.println("----");
     }
   }
 }
 
 void keyPressed() {
+  
+  output.println("{}");
+  output.println("  ]");
+  output.println("}");
   output.flush(); // Writes the remaining data to the file
   output.close(); // Finishes the file
   exit(); // Stops the program

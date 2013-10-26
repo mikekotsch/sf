@@ -1,0 +1,224 @@
+{
+'time':03:54:44,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 4095
+{
+'time':03:54:45,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:45,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:45,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:45,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:46,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:46,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:46,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:46,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:46,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:46,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:47,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:47,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
+{
+'time':03:54:47,
+'pressure': {
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+'A0' : 0
