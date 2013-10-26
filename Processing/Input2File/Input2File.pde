@@ -41,14 +41,13 @@ void draw()
   int val;
   String time;
 
-
-
   if ( myPort.available() >= 15)  // wait for the entire message to arrive
   {
     if( myPort.read() == HEADER) // is this the header
     {
       String timeString = timeFormat.format(new Date());
       // println("Message received at " + timeString);
+      
       output.println("   {");
       output.println("     \"time\": \"" + timeString + "\",");
       output.print("     \"pressure\": ");
@@ -71,23 +70,23 @@ void draw()
         }
         bit = bit * 2; // shift the bit
       }
-      // print the six analog values
       
-      // only A0
-      
-      val = readArduinoInt();
-      int i = 0;
-      
-      output.println(val);
-      output.print("   },");
-      
-//      for(int i=0; i < 6; i ++){
-//        val = readArduinoInt();
+      // print the six analog values           
+      for (int i=0; i < 6; i ++) {
+        
+        val = readArduinoInt();
+        
+        if (i == 5) {
+           print("Pressure: ");
+           println(val);
+           output.println(val);
+           output.print("   },");
+        }
+        
+        
 //        println("analog port " + i + "= " + val);
 //        output.println("analog port " + i + "= " + val);
-//      }
-//      println("----");
-//      output.println("----");
+      }
     }
   }
 }

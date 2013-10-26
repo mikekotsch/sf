@@ -1,0 +1,1013 @@
+{
+  "131026_1835": [
+   {
+     "time": "06:35:38",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 2657
+   },analog port 0= 72
+analog port 1= 37632
+analog port 2= 14217
+analog port 3= 11827
+analog port 4= 13623
+analog port 5= 2573
+   {
+     "time": "06:35:38",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35237
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:38",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35230
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:38",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35189
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:39",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35192
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:39",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35219
+   },analog port 0= 13111
+analog port 1= 14126
+analog port 2= 3381
+analog port 3= 18442
+analog port 4= 0
+analog port 5= 35237
+   {
+     "time": "06:35:39",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35230
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:39",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35189
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:40",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35192
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:40",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35219
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:40",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35172
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:40",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 64537
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:40",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 0
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:41",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35249
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:41",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35234
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:41",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35229
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:41",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35217
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:41",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35249
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:42",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35210
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:42",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35197
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:42",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35227
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:42",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35210
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:43",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35231
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:43",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35188
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:43",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35164
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:43",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35209
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:43",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35190
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:44",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35209
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:44",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35248
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:44",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35196
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:44",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35208
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:45",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35234
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:45",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35217
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:45",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35210
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:45",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35246
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:45",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35187
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:46",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35217
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:46",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35199
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:46",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35227
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:46",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35230
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:46",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35205
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:47",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35232
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:47",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35244
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:47",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35220
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:47",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35196
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:48",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35234
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:48",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35186
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:48",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35221
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:48",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35245
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:48",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35242
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:49",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35240
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:49",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35237
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:49",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35232
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:49",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35220
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:49",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35157
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:50",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35249
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:50",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35247
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:50",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35236
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:50",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35224
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:51",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35210
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:51",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35211
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:51",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35184
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:51",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35200
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:51",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35205
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:52",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35226
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:52",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35253
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:52",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35245
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:52",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35241
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:53",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35203
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:53",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35242
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:53",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35222
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:53",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35248
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:53",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35237
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:54",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35227
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:54",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35249
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:54",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35225
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:54",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35266
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:54",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35215
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:55",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35213
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:55",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35239
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:55",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35255
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:55",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35186
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:56",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35237
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:56",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35225
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:56",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35218
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:56",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35240
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:56",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35215
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:57",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35240
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:57",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35221
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:57",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35222
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:57",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35225
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:58",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35185
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:58",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35226
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:58",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35254
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:58",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35244
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:58",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35225
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:59",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35241
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:59",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35252
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:59",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35245
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:59",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35242
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:35:59",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35211
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:00",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35201
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:00",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35221
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:00",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35232
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:00",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35250
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:01",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35160
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:01",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35213
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:01",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35198
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:01",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35222
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:01",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35218
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:02",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35246
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+   {
+     "time": "06:36:02",
+     "pressure": digital pin 2 = digital pin 3 = digital pin 4 = digital pin 5 = digital pin 6 = digital pin 7 = digital pin 8 = digital pin 9 = digital pin 10 = digital pin 11 = digital pin 12 = digital pin 13 = 35227
+   },analog port 0= 29264
+analog port 1= 29541
+analog port 2= 30067
+analog port 3= 25970
+analog port 4= 20520
+analog port 5= 10593
+{}
+  ]
+}

@@ -1,0 +1,160 @@
+07:40:50
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 12592
+analog port 1= 2573
+analog port 2= 10312
+analog port 3= 12801
+analog port 4= 13881
+analog port 5= 2573
+----
+07:40:50
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 12339
+analog port 1= 3377
+analog port 2= 18442
+analog port 3= 275
+analog port 4= 14130
+analog port 5= 3381
+----
+07:40:51
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 12595
+analog port 1= 3382
+analog port 2= 18442
+analog port 3= 328
+analog port 4= 12851
+analog port 5= 3384
+----
+07:40:54
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 18442
+analog port 1= 3376
+analog port 2= 18442
+analog port 3= 3376
+analog port 4= 18442
+analog port 5= 310
+----
+07:40:55
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 12339
+analog port 1= 3383
+analog port 2= 18442
+analog port 3= 311
+analog port 4= 12595
+analog port 5= 3377
+----
+07:40:56
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 14130
+analog port 1= 3382
+analog port 2= 18442
+analog port 3= 344
+analog port 4= 13363
+analog port 5= 3380
+----
+07:40:57
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 12595
+analog port 1= 3376
+analog port 2= 18442
+analog port 3= 349
+analog port 4= 13363
+analog port 5= 3385
+----
+07:40:58
+digital pin 2 = 0
+digital pin 3 = 0
+digital pin 4 = 0
+digital pin 5 = 0
+digital pin 6 = 0
+digital pin 7 = 0
+digital pin 8 = 0
+digital pin 9 = 0
+digital pin 10 = 0
+digital pin 11 = 0
+digital pin 12 = 0
+digital pin 13 = 0
+analog port 0= 12595
+analog port 1= 3383
+analog port 2= 18442
+analog port 3= 339
+analog port 4= 13107
+analog port 5= 3385
+----

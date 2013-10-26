@@ -35,9 +35,6 @@
 #include <Wire.h>
 #include "MPL3115A2.h"
 
-const char HEADER = 'H';  // a single character header to indicate 
-                          // the start of a message
-
 //Create an instance of the object
 MPL3115A2 myPressure;
 
@@ -56,27 +53,27 @@ void setup()
   myPressure.enableEventFlags(); // Enable all three pressure and temp event flags 
 }
 
-void loop()
-{
-  
-  Serial.write(HEADER);
+void loop() {
   
   float pressure = myPressure.readPressure();
-  Serial.print("Pressure(Pa):");
-//  Serial.print(pressure, 2);
+  //Serial.print("Pressure(Pa):");
   
-  Serial.print((int)pressure);
+  if (pressure <= 0) {
+     Serial.println(0);
+  }
   
-  sendBinary((int) pressure);
+  else {
+    
+//    int tmp = (int) pressure;
+//    tmp = abs(tmp);
+//    tmp = tmp % 2000;
+    
+    Serial.println(pressure, 2);
+    
+//    Serial.print("Pressure: ");
+//    Serial.print(pressure, 1);
+//    Serial.println();
+  }
   
-  Serial.println();
-  
-  delay(10);
-}
-
-void sendBinary( int value)
-{
-  // send the two bytes that comprise an integer
-  Serial.write(lowByte(value));  // send the low byte
-  Serial.write(highByte(value)); // send the high byte
+  delay(1000); 
 }
