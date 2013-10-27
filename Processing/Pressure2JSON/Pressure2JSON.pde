@@ -9,7 +9,6 @@
 import processing.serial.*;
 import java.util.*;
 import java.text.*;
-import java.math.*;
 
 PrintWriter output;
 DateFormat fnameFormat= new SimpleDateFormat("yyMMdd_HHmm");
@@ -20,14 +19,18 @@ Serial myPort;  // Create object from Serial class
 short portIndex = 8;
 String val;     // Data received from the serial port
 
+int col;
+
+PImage back;
 PImage baby;
 PImage schmidt;
 
-float red = 0;
-float green = 255;
-
 LinkedList valueList = new LinkedList();
 int listSize = 10;
+
+int fadeSpeed = 10;
+int flag_b = 0;
+int flag_s = 0;
 
 int h = 0;
 int i = 0;
@@ -46,6 +49,9 @@ void setup() {
   
   size(500,800);
   
+  colorMode(HSB, 360, 100, 100);
+  
+  back = loadImage("back.jpg");
   baby = loadImage("baby.png");
   schmidt = loadImage("schmidt.png");
 }
@@ -60,7 +66,7 @@ void draw() {
     
     if (val != null) {
       
-      background(0);
+      background(back);
       
       int tmp = int(val);
       tmp = (tmp % 1000)/2;
@@ -94,22 +100,44 @@ void draw() {
       System.out.println("\nContent of valueList :");
       System.out.println(h);
  
-      if (h > 0) {
-        red = 255-h;
-        green = h-255;
-      }
-      
-      fill((int)red,(int)green,0);
+            
+      fill(h,50,50);
       rect(100,(3*h/2),50,height);
       
       // add images
-      if (tmp < 150) {
+      if (tmp < 80) {  // add Helmut
+        
+        flag_s = 255;
+      }
+      
+      else if (tmp < 150) {  // add Baby
+        
+        flag_b = 255;
+      }
+      
+      if (flag_s > 0) {
+        
+        flag_b = 0;
+        flag_s -= fadeSpeed;
+        tint(255, flag_s);
         image(schmidt,200,10);
       }
       
-      else if (tmp < 200) {
+      else if (flag_b < 0) {
+        flag_b = 0;
+      }
+      
+      if (flag_b > 0) {
+
+        flag_b -= fadeSpeed;
+        tint(255, flag_b);
         image(baby,200,200);
       }
+      
+      else if (flag_b < 0) {
+        flag_b = 0;
+      }
+      
 
       // write JSON
       if (i >= 59) {
@@ -129,9 +157,10 @@ void draw() {
   } 
 }
 
-void showImage() {
+void showImage(PImage img) {
  
- tint(255, 40); 
+  tint(255, 255);
+  image(baby,200,200);
 }
 
 void keyPressed() {
