@@ -68,7 +68,10 @@ void draw() {
       
       background(back);
       
+      println("val: " + val);
+      
       int tmp = int(val);
+      tmp += 300;
       tmp = (tmp % 1000)/2;
       
       println("Temp: " + tmp);
@@ -97,23 +100,23 @@ void draw() {
          valueList.add(tmp);
       }
             
-      System.out.println("\nContent of valueList :");
+      System.out.print("\nContent of valueList :");
       System.out.println(h);
  
             
-      fill(h-200,100,100);
+      fill(h-100,100,100);
       noStroke();
-      rect(100,(4*h/2),50,height);
+      rect(100,(3*h),50,height);
       
       // add images
-      if (tmp < 80) {  // add Helmut
+      if (tmp < 50) {  // add Helmut
         
         flag_s = 255;
       }
       
-      else if (tmp < 150) {  // add Baby
+      else if (tmp < 90) {  // add Baby
         
-        flag_b = 255;
+        // flag_b = 255;
       }
       
       if (flag_s > 0) {
