@@ -26,7 +26,7 @@ PImage baby;
 PImage schmidt;
 
 LinkedList valueList = new LinkedList();
-int listSize = 10;
+int listSize = 14;
 
 int fadeSpeed = 10;
 int flag_b = 0;
@@ -103,7 +103,7 @@ void draw() {
             
       fill(h-200,100,100);
       noStroke();
-      rect(100,(3*h/2),50,height);
+      rect(100,(4*h/2),50,height);
       
       // add images
       if (tmp < 80) {  // add Helmut
