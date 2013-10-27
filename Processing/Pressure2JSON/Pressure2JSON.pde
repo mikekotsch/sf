@@ -101,7 +101,8 @@ void draw() {
       System.out.println(h);
  
             
-      fill(h,50,50);
+      fill(h-200,100,100);
+      noStroke();
       rect(100,(3*h/2),50,height);
       
       // add images
